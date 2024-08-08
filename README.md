@@ -23,6 +23,8 @@ experience.
 - **Database:**
   - H2 (for development)
   - MySQL (for production)
+## Screen Shots
+
 ![Quiz Start page](https://github.com/user-attachments/assets/fc389ed8-f157-4beb-9bee-6050ffb2a0c3)
 ![Quiz page](https://github.com/user-attachments/assets/4aa80161-cedf-4764-8c85-deb7f63c64e8)
 ![Result page](https://github.com/user-attachments/assets/d4f91307-4733-479e-81ca-50cf134a9e58)
